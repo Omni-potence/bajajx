@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+gunicorn
+google-generativeai
+faiss-cpu
+numpy
+requests
+unstructured[pdf]
+langchain
+python-dotenv
+pdfplumber
